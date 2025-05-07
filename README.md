@@ -1,32 +1,36 @@
-# Myntra Sales Analysis Dashboard
+# 🛍️ Myntra Sales Dashboard (Power BI)
 
-This repository contains a Power BI dashboard analyzing sales data from Myntra, an Indian fashion e-commerce platform. The dashboard provides insights into sales trends, top-performing products, customer behavior, and regional performance.
+An interactive Power BI dashboard analyzing sales data from **Myntra**, providing insights into product performance, regional trends, and customer behavior.
 
-## Files
+![Dashboard Preview](dashboard_screenshot.png)
+*Visual overview of the Power BI dashboard*
+
+## 📁 Files Included
 
 * `myntra.pbix` – Power BI dashboard
-* `Myntra dataset.xlsx` – Source data
-* `README.md` – Project overview
+* `Myntra dataset.xlsx` – Source dataset
+* `Myntra_dashboard.png` – Dashboard preview image
+* `README.md` – Project documentation
 
-## Key Features
+## 🔎 Key Insights
 
-* Sales performance by category, product, and region
-* Time-based trends (monthly/quarterly)
-* Impact of discounts on sales
-* Interactive filters and visualizations
+* Top-selling products and categories
+* Monthly and quarterly sales trends
+* Sales by state/region
+* Effect of discounts on revenue
 
-## Tools Used
+## 🛠️ Tools Used
 
 * Power BI
 * Microsoft Excel
 
-## Usage
+## 🚀 How to Use
 
-1. Download the repository.
-2. Open `myntra.pbix` in Power BI Desktop.
-3. Connect to the Excel dataset if prompted.
-4. Explore the dashboard interactively.
+1. Download or clone the repository
+2. Open `myntra.pbix` in Power BI Desktop
+3. Ensure the Excel dataset is in the same folder
+4. Refresh data if needed and explore the dashboard
 
-## License
+## 📜 License
 
 MIT License
