@@ -16,10 +16,12 @@ An interactive Power BI dashboard analyzing sales data from **Myntra**, providin
 * Sales by state/region
 * Effect of discounts on revenue
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technique
 
-* Power BI
+* Microsoft Power BI
 * Microsoft Excel
+* DAX(for calculated measures)
+* custom visualization, slicers, filters, cards, pie charts and bar graph
 
 ## 🚀 How to Use
 
@@ -28,6 +30,7 @@ An interactive Power BI dashboard analyzing sales data from **Myntra**, providin
 3. Ensure the Excel dataset is in the same folder
 4. Refresh data if needed and explore the dashboard
 
-## 📜 License
+## 📜 Created by 
 
-MIT License
+**Rashi**
+*Aspiring Data Analyst / Power BI Enthusiast
