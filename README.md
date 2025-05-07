@@ -11,11 +11,15 @@ An interactive Power BI dashboard analyzing sales data from **Myntra**, providin
 
 ## 🔎 Key Insights
 
-* Top-selling products and categories
-* Monthly and quarterly sales trends
-* Sales by state/region
-* Effect of discounts on revenue
-
+📅 **Sales Trends** over months and years
+🛍️ **Top Product Categories** and their performance (Men, Women, Kids, Beauty)
+💰 **Brand-wise Revenue** (e.g., Puma, H&M, Roadster, etc.)
+🧾 **Average Discount & Sales Amount**
+📈 **State-wise Sales Distribution**
+⭐ **High-rated Products by Category**
+🗓️ **Sales by Weekdays** and sub-categories
+🔍 **Interactive Filters** for Category, Brand, Year, etc.
+  
 ## 🛠️ Tools & Technique
 
 * Microsoft Power BI
