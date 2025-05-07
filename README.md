@@ -2,9 +2,6 @@
 
 An interactive Power BI dashboard analyzing sales data from **Myntra**, providing insights into product performance, regional trends, and customer behavior.
 
-![Dashboard Preview](dashboard_screenshot.png)
-*Visual overview of the Power BI dashboard*
-
 ## 📁 Files Included
 
 * `myntra.pbix` – Power BI dashboard
